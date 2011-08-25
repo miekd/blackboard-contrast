@@ -1,4 +1,4 @@
-# Blackboard (Contrast)
+# Blackboard Contrast
 
 Blackboard Contrast is a succession of the Blackboard TextMate theme. 
 
